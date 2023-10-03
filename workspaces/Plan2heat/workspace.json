@@ -10,5 +10,9 @@
   "compatibility": [
     "1.13.x"
   ],
-  "uncompressed_size_mb": 4560
+  "uncompressed_size_mb": 4560,
+  "cores": 4,
+  "gpu_count": 1,
+  "memory": 4000,
+  "cpu_allocation_method": "Inherit"
 }
