@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Alba Hyperthermia',
+    description: 'The official store for Alba supported workspaces.',
+    icon: 'https://www.albahyperthermia.com/wp-content/uploads/2021/09/albahyperthermia_logo-white.png',
+    listUrl: 'https://github.com/brandus1/alba-registry',
+    contactUrl: 'https://github.com/brandus1/alba-registry',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/alba-registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
