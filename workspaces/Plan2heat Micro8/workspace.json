@@ -1,9 +1,9 @@
 {
   "description": "Plan2heat stable version.",
   "docker_registry": "https://registry.gitlab.com",
-  "image_src": "plan2heat.png",
-  "name": "registry.gitlab.com/plan2heat/p2h-standalone:1.0.0",
-  "friendly_name": "Plan2heat 1.0.0",
+  "image_src": "m8.png",
+  "name": "registry.gitlab.com/plan2heat/p2h-standalone:preview",
+  "friendly_name": "Plan2heat Micro8",
   "architecture": [
     "amd64"
   ],
